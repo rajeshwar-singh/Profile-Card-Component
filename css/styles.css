@@ -1,0 +1,168 @@
+body
+{
+margin:0;
+background-repeat: no-repeat;
+font-family: 'Kumbh Sans', sans-serif;
+
+  }
+  .container
+{
+  background-repeat: no-repeat;
+  width:90rem;
+  height:650px;
+  background-color: #19a2aE;
+}
+.sub-container
+{
+
+  border-radius: 16px;
+  margin:auto;
+  position:absolute;
+  left:32rem;
+  top:120px;
+  background-color: #ffffff;
+  width:350px;
+  height:400px;
+}
+.pattern-container
+{
+  position:absolute;
+  border-radius: 80%;
+}
+.top-image
+{
+
+  position:absolute;
+  bottom:40%;
+  left:-23%;
+
+
+}
+.bottom-image
+{
+
+  position:absolute;
+  right:-22%;
+  top:50%;
+
+}
+.image-pattern
+{
+  width:350px;
+  height:115px;
+  border-top-right-radius: 16px;
+  border-top-left-radius: 16px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius:0;
+}
+.victor
+{
+  position: absolute;
+  border:solid #ffffff;
+  border-radius: 100%;
+  top:70px;
+  left:125px;
+}
+.victor-text
+{
+  position:absolute;
+  top:180px;
+  left:120px;
+  color:#2D3248;
+  font-weight: 700;
+  font-size: 18px;
+}
+.age
+{
+  position:absolute;
+  top:183px;
+  left:230px;
+  color:#6A6F81;
+  font-weight: 400;
+}
+.city
+{
+  position:absolute;
+  top:210px;
+  left:150px;
+  color:#6A6F81;
+    font-weight: 400;
+}
+.line
+{
+  position:absolute;
+  top:270px;
+  width:350px;
+  border-style: none;
+  border-top-style:solid;
+
+
+
+  border-width:1px;
+    border-color:lightgray;
+    font-weight: 400;
+}
+.follower-number
+{
+
+  position:absolute;
+  top:300px;
+  left:60px;
+  color:#2D3248;
+  font-weight: 700;
+  font-size: 18px;
+
+}
+.like-number
+{
+  position:absolute;
+  top:300px;
+  left:155px;
+  color:#2D3248;
+  font-weight: 700;
+  font-size: 18px;
+
+}
+.photo-number
+{
+  position:absolute;
+  top:300px;
+  left:255px;
+  color:#2D3248;
+  font-weight: 700;
+  font-size: 18px;
+
+}
+.followers
+{
+  position:absolute;
+  top:325px;
+  left:45px;
+  color:#6A6F81;
+    font-weight: 400;
+    font-size:10px;
+    letter-spacing: .1rem;
+    line-height: 4;
+}
+.likes
+{
+  position:absolute;
+  top:325px;
+  left:162px;
+  color:#6A6F81;
+    font-weight: 400;
+        font-size:10px;
+    letter-spacing: .1rem;
+    line-height: 4;
+}
+.photos
+{
+  position:absolute;
+  top:325px;
+  left:252px;
+  color:#6A6F81;
+      font-size:10px;
+    font-weight: 400;
+    letter-spacing: .1rem;
+    line-height: 4;
+}
